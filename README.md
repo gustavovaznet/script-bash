@@ -1,2 +1,2 @@
-# script-bash
-Useful Scripts
+# Scripts
+Some of my useful scripts.
